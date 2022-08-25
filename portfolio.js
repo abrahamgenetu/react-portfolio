@@ -2,9 +2,9 @@ import emoji from "react-easy-emoji";
 
 export const greetings = {
 	name: "Abraham Genetu",
-	title: "Hi all, I'm Abraham Genetu",
+	title: "Hi, I'm Abraham",
 	description:
-		"I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
+		"I'm passionate Full-Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
 	resumeLink:
 		"https://drive.google.com/file/d/1xY5gLhXp3rwEKaGkimrkxvh_1QtikYOe/view?usp=sharing",
 };
@@ -218,17 +218,17 @@ export const educationInfo = [
 export const experience = [
 	{
 		role: "Frontend Developer",
-		company: "Duseca Software",
+		company: "Preons Tech",
 		companylogo: "/img/icons/common/dusecaSoftware.jpg",
 		date: "Apr 2022 – Jun 2022",
 		desc: "I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.",
 	},
 	{
-		role: "API Engineer",
-		company: "Duseca Software",
-		companylogo: "/img/icons/common/dusecaSoftware.jpg",
+		role: "Machine learning Developer",
+		company: "IcogLabs",
+		companylogo: "/img/icons/common/icog.jpg",
 		date: "Jan 2022 – Mar 2022",
-		desc: "I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.",
+		desc: "I worked as machine learning intern on a rejuve App. Rejuve is a community platform for the creation of health reviews based on verified datas. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.",
 		// descBullets: [
 		// 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
 		// 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -236,54 +236,55 @@ export const experience = [
 	},
 	{
 		role: "Full Stack Developer",
-		company: "Bleed-AI",
-		companylogo: "/img/icons/common/bleedAI.jpg",
+		company: "Preons",
+		companylogo: "/img/icons/common/dusecaSoftware.jpg",
 		date: "Sept 2021 - Oct 2021",
 		desc: "Worked as django web developer to create a website in which I integrated computer vision AI model (built by the team of BleedAI) to process YouTube URLs and show Real Time processing on Website using Django Channels WebSockets , threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.",
 	},
 	{
 		role: "Backend Developer",
-		company: "Wapidu",
-		companylogo: "/img/icons/common/wapidu.jpg",
+		company: "IcogLabs",
+		companylogo: "/img/icons/common/icog.jpg",
 		date: "Sept 2021",
-		desc: "Worked as a Django Developer to integrate Stripe payment gateway in wapidu.com and Created REST APIs using Django REST Framework to integrate Django Stripe backend to Vue.js Frontend and Deployed it on Azure based Docker container registry.",
+		desc: "Worked as a Django Developer to integrate Stripe payment gateway in mindplex.com and Created REST APIs using Django REST Framework to integrate Django Stripe backend to Vue.js Frontend and Deployed it on Azure based Docker container registry.",
 	},
 ];
 
 export const projects = [
 	{
-		name: "developer-portfolio",
+		name: "React-portfolio",
 		desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-		github: "https://github.com/1hanzla100/developer-portfolio",
-		link: "https://developer-portfolio-1hanzla100.vercel.app/",
+		github: "https://github.com/abrahamgenetu/react-portfolio",
+		link: " https://abrahamgenetu.netlify.app",
 	},
 	{
-		name: "AtlasMart",
-		desc: "With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.",
-		github: "https://github.com/1hanzla100/Django-React-Marketplace",
+		name: "Malaria Detection",
+		desc: "Detection of the presence of Malaria parasites in Human Blood Cells and to determine how much it is affected..",
+		github: "https://github.com/abrahamgenetu/Malaria-detection-",
 	},
 	{
-		name: "Technota (Forum)",
-		desc: "Get hands-on experience in technical skills with Technota",
-		github: "https://github.com/1hanzla100/django-react-forum",
+		name: "Preons (Educational Platform)",
+		desc: "Get hands-on experience in technical skills with Preons education: Educational platform project",
+		github: "https://github.com/abrahamgenetu/preons",
+		link: "https:preons.herokuapp.com"
 	},
 	{
-		name: "Shopaza (Ecommerce)",
-		desc: "Now your reach to all your favorite entertainment and luxury items is just one touch apart",
-		github: "https://github.com/1hanzla100/Django-ecommerce",
+		name: "Real Estate Trading(Ecommerce)",
+		desc: "Now your reach to all your favorite Simple real estate app, built with django rest framework with react , redux docker...",
+		github: "https://github.com/abrahamgenetu/django-real-estate",
 	},
 ];
 
 export const feedbacks = [
 	{
-		name: "John Smith",
+		name: "Dr. Solomon Getnet",
 		feedback:
-			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+			"“I admire your effort to finish this activity. I knew it wouldn’t be easy, but I had faith in you. Appreciate you for going well beyond.”",
 	},
 	{
-		name: "John Smith",
+		name: "Tewodros Genetu",
 		feedback:
-			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+			"“That’s a fantastic start, but you could go even well.” “You’re in the proper direction, but you aren’t there yet.",
 	},
 ];
 
@@ -294,11 +295,11 @@ export const seoData = {
 		"A passionate Full Stack Web Developer and Blockchain Developer.",
 	author: "Abraham Genetu",
 	image: "https://avatars.githubusercontent.com/u/103524169?v=4",
-	url: "https://developer-portfolio-1hanzla100.vercel.app",
+	url: "https://abrahamgenetu.netlify.app",
 	keywords: [
 		"Abraham Genetu",
-		"@1hanzla100",
-		"1hanzla100",
+		"@abrahamgenetu",
+		"abrahamgenetu",
 		"Portfolio",
 		"AbrahamPortfolio ",
 		"Abraham Genetu Portfolio",
