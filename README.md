@@ -1,12 +1,12 @@
 # react-portfolio
 <h1 align="center">Welcome to Abraham's-portfolio 👋</h1>
-<a href="https://github.com/abrahamgenetu/react-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/abrahamgenetu/react-portfolio"></a><a href="https://github.com/abrahamgenetu/react-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/abrahamgenetu/react-portfolio"></a><a href="https://github.com/abrahamgenetu/react-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/developer-portfolio"></a> <a href="https://github.com/1hanzla100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/developer-portfolio"></a>
+<a href="https://github.com/abrahamgenetu/react-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/abrahamgenetu/react-portfolio"></a><a href="https://github.com/abrahamgenetu/react-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/abrahamgenetu/react-portfolio"></a><a href="https://github.com/abrahamgenetu/react-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/developer-portfolio"></a> <a href="https://github.com/abrahamgenetu/react-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/abrahamgenetu/react-portfolio"></a>
 
 ## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/abrahamgenetu/react-portfolio/picture.PNG"></img>
+    <img src="https://github.com/abrahamgenetu/react-portfolio/blob/main/picture.PNG"></img>
   </kbd>
 </p>
 
